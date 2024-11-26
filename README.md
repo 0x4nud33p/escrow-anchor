@@ -134,8 +134,8 @@ Use **Postman** or any other API testing tool to interact with the API.
 
 ## Deployment
 
-This application is deployed on [].  
-Access the live application here: **[](#)**
+This application is deployed on [https://url-shortener-api-6hcf.onrender.com].  
+Access the live application here: **[https://url-shortener-api-6hcf.onrender.com](#)**
 
 ---
 
@@ -175,7 +175,7 @@ url-shortener/
 
 ## Author
 
-- **Your Name**  
+- **Anudeep Avula**  
 - [GitHub Profile]([https://github.com/your-username](https://github.com/anudeep009/))  
 
 ---
