@@ -97,7 +97,7 @@ Retrieves usage statistics for a specific shortened URL.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone [https://github.com//url-shortener.git](https://github.com/anudeep009/url-shortener-api.git)
    cd url-shortener
    ```
 
@@ -134,8 +134,8 @@ Use **Postman** or any other API testing tool to interact with the API.
 
 ## Deployment
 
-This application is deployed on [https://url-shortener-api-6hcf.onrender.com].  
-Access the live application here: **[https://url-shortener-api-6hcf.onrender.com](#)**
+This application is deployed on [https://url-shortener-api-1-riwc.onrender.com].  
+Access the live application here: **[[https://url-shortener-api-6hcf.onrender.com](https://url-shortener-api-1-riwc.onrender.com)](#)**
 
 ---
 
@@ -176,6 +176,6 @@ url-shortener/
 ## Author
 
 - **Anudeep Avula**  
-- [GitHub Profile]([https://github.com/your-username](https://github.com/anudeep009/))  
+- [GitHub Profile]([(https://github.com/anudeep009/url-shortener-api/)])
 
 ---
