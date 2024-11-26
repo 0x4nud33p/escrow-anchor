@@ -134,8 +134,8 @@ Use **Postman** or any other API testing tool to interact with the API.
 
 ## Deployment
 
-This application is deployed on [https://url-shortener-api-1-riwc.onrender.com].  
-Access the live application here: **[[https://url-shortener-api-6hcf.onrender.com](https://url-shortener-api-1-riwc.onrender.com)](#)**
+This application is deployed on render.com
+Access the live application here: **(https://url-shortener-api-1-riwc.onrender.com**
 
 ---
 
