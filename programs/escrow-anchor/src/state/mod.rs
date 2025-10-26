@@ -8,4 +8,5 @@ pub struct Escrow {
     pub mint_b: Pubkey,
     pub receive: u64,
     pub bump: u8,
+    pub seed: u64
 }
