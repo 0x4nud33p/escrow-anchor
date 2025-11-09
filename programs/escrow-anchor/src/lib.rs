@@ -1,13 +1,14 @@
+use anchor_lang::prelude::*;
+
+
 pub mod error;
 pub mod instructions;
 pub mod state;
 
-use anchor_lang::prelude::*;
-
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("Fo8SYMPxsWQSTLu74N7cQj1VhscVWNjXHtAB48JutCx8");
+declare_id!("6qippS34vLbwYQCwY56nq1GJBhxm8WkpwYciP1QVRJVj");
 
 #[program]
 pub mod escrow_anchor {
